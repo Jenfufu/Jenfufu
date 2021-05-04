@@ -2,7 +2,10 @@
 
 I'm a computer science student at Stony Brook University. I'm on the executive board for Women In Computer Science @ Stony Brook University as an event committee member.
 
-- 📫 Facebook: https://www.facebook.com/jenny.yang.146/
+## Reach Me!
+Facebook: https://www.facebook.com/jenny.yang.146/
+LinkedIn: https://www.linkedin.com/in/jenny-yang-478388208/
+
 <!--
 **Jenfufu/Jenfufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
