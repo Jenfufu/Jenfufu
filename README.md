@@ -5,7 +5,7 @@ Passionate about bridging the gap between men and women in computer science.
 
 ## Get in touch
 - Facebook: https://www.facebook.com/jenny.yang.146/  
-- LinkedIn: https://www.linkedin.com/in/jenny-yang-478388208/
+- LinkedIn: https://www.linkedin.com/in/jennyyng/
 
 <!--
 **Jenfufu/Jenfufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
