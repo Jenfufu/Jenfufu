@@ -1,9 +1,10 @@
-# Jenny -@Jenfufu 
+# Jenny @Jenfufu 
 
 Hi!👋I'm Jenny, a computer science student at Stony Brook University 📖.
 Passionate about bridging the gap between men and women in computer science.
 
 ## Get in touch
+- Email: jennyyworks@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jennyyng/
 
 <!--
