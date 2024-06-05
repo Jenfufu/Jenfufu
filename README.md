@@ -1,11 +1,7 @@
-# Jenny @Jenfufu 
-
-Hi!👋I'm Jenny, a computer science student at Stony Brook University 📖.
-Passionate about bridging the gap between men and women in computer science.
+# @Jenfufu 
 
 ## Get in touch :envelope:
 - Email: jennyyworks@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jennyyng/
 
 <!--
 **Jenfufu/Jenfufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
